@@ -11,7 +11,7 @@ I enjoy breaking down complex problems, questioning assumptions, and developing 
 ## 🔍 Areas of Interest
 
 - **Market Risk:** Value at Risk (VaR), Expected Shortfall, portfolio risk, and backtesting.
-- **Credit Risk:** Probability of Default (PD), credit scoring, and quantitative risk assessment.
+- **Credit Risk:** Probability of Default (PD), Exposure at Default (EAD), Loss given Default (LGD), Staging under Significant increase in Credit Risk (SICR), regulatory stress testing and the integration of forward-looking information into Expected Credit Loss (ECL) models.
 - **Statistical Modeling:** Probability theory, stochastic processes, time series analysis, and model validation.
 - **Financial Analytics:** Data-driven decision-making, financial modeling, and risk measurement.
 - **Software Development:** Building analytical tools that combine mathematical rigor with practical usability.
