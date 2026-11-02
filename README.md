@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-**Financial Auditor | Mathematics Student | Quantitative Finance & Risk Analytics**
+**Mathematics Student | Quantitative Finance & Risk Analytics**
 
 I'm based in Austria, working in financial auditing and advisory while studying **Financial and Actuarial Mathematics at TU Wien (Vienna University of Technology)**.
 
