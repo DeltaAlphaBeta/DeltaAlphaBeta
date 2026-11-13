@@ -1,50 +1,37 @@
 # Hi, I'm Daniel 👋
 
-**Mathematics Student | Quantitative Finance & Risk Analytics**
+**Financial & Actuarial Mathematics Student | Quantitative Finance | Risk Modeling**
 
-I'm based in Austria, working in financial auditing and advisory while studying **Financial and Actuarial Mathematics at TU Wien (Vienna University of Technology)**.
+I'm based in Austria and study **Financial and Actuarial Mathematics at TU Wien**, with a professional background in financial auditing and advisory.
 
-My interests lie at the intersection of mathematics, statistics, finance, and software development — particularly in applying quantitative methods to real-world financial problems.
+My primary interests are quantitative finance, statistical modeling, and the application of mathematical methods to financial risk.
 
-I enjoy breaking down complex problems, questioning assumptions, and developing transparent, reproducible analytical solutions.
+I particularly enjoy understanding the mathematics behind models, examining their assumptions, and translating theoretical concepts into practical analytical tools.
 
 ## 🔍 Areas of Interest
 
-- **Market Risk:** Value at Risk (VaR), Expected Shortfall, portfolio risk, and backtesting.
-- **Credit Risk:** Probability of Default (PD), Exposure at Default (EAD), Loss given Default (LGD), Staging under Significant increase in Credit Risk (SICR), regulatory stress testing and the integration of forward-looking information into Expected Credit Loss (ECL) models.
-- **Statistical Modeling:** Probability theory, stochastic processes, time series analysis, and model validation.
-- **Financial Analytics:** Data-driven decision-making, financial modeling, and risk measurement.
-- **Software Development:** Building analytical tools that combine mathematical rigor with practical usability.
+- **Market Risk** — Value at Risk (VaR), Expected Shortfall, portfolio risk measurement, stress testing, and backtesting.
+- **Credit Risk** — Credit scoring, PD/LGD/EAD modeling, Expected Credit Loss (ECL), and forward-looking risk assessment.
+- **Statistics & Probability** — Probability theory, stochastic processes, time series analysis, simulation, and model validation.
+- **Quantitative Finance** — Financial modeling, risk measurement, and numerical methods.
+- **Software Development** — Developing reproducible analytical tools and making quantitative models accessible through software.
 
 ## 🛠️ Technologies & Tools
 
-- **Programming & Development** — Experience with R, Python, and web technologies, with a particular focus on statistical computing, data analysis, and financial modeling.
-- **R** — My strongest programming language, especially for quantitative analysis, statistical modeling, and simulation.
-- **LaTeX** — Mathematical documentation, technical writing, and scientific communication.
+- **R** — My primary programming language, particularly for statistical computing, financial modeling, data analysis, and simulation.
+- **Python** — Expanding my skills in quantitative computing and software development.
+- **Web Technologies** — Exploring ways to build interactive interfaces for analytical applications.
+- **LaTeX** — Mathematical documentation and technical writing.
 
-I value clean, understandable code, reproducible results, and well-documented methodologies.
+## 📂 Projects
 
-## 📂 Projects — Coming Soon
+I'm planning to use GitHub to document and share selected projects in quantitative finance, risk modeling, and statistical computing.
 
-I'm currently balancing my professional responsibilities with a demanding university schedule. Consequently, I haven't published any projects on GitHub yet.
+Potential topics include market risk models, backtesting frameworks, credit risk analytics, and simulation tools developed primarily in R.
 
-However, I intend to use this space to share selected projects as my schedule allows.
+My focus is on implementing models with a clear mathematical foundation, explicit assumptions, and reproducible results.
 
-Topics I'm particularly interested in exploring include:
-
-- Quantitative market risk modeling and backtesting.
-- Credit risk assessment and scoring methodologies.
-- Statistical modeling and simulation in R.
-- Financial data analysis and visualization.
-- Practical implementations of mathematical and financial concepts.
-
-My goal is to publish projects that are not just functional, but also **methodologically sound, transparent, and properly documented**.
-
-## 🎯 My Approach
-
-I believe good quantitative models require more than correct calculations. They depend on clearly defined assumptions, an understanding of their limitations, and rigorous validation.
-
-Whether I'm working on a mathematical proof, evaluating a financial model, or developing software, I try to approach problems with the same principles:
+## 🎯 Guiding Principles
 
 **Question assumptions. Understand the mathematics. Validate the results.**
 
