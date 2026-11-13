@@ -48,6 +48,7 @@ Whether I'm working on a mathematical proof, evaluating a financial model, or de
 
 **Question assumptions. Understand the mathematics. Validate the results.**
 
+(written by AI)
 <!--
 **DeltaAlphaBeta/DeltaAlphaBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
